@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2fc254f-5721-4877-ae21-8dcad49eb808": {
+      "ProjectGuid": "e2fc254f-5721-4877-ae21-8dcad49eb808",
+      "DisplayName": "PepitoSchool.Applications",
+      "ColorIndex": 0
+    },
+    "e18dcbde-632e-4521-b917-4754fd943f3c": {
+      "ProjectGuid": "e18dcbde-632e-4521-b917-4754fd943f3c",
+      "DisplayName": "PepitoSchool.Domain",
+      "ColorIndex": 1
+    },
+    "bea0b8ec-0ef3-4d5c-a684-530a635c627d": {
+      "ProjectGuid": "bea0b8ec-0ef3-4d5c-a684-530a635c627d",
+      "DisplayName": "PepitoSchool.Infrastructure",
+      "ColorIndex": 2
+    },
+    "382de0d5-cfde-455b-8c8c-e99be33f836c": {
+      "ProjectGuid": "382de0d5-cfde-455b-8c8c-e99be33f836c",
+      "DisplayName": "PepitoSchool.Forms",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
